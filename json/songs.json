@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Grenade",
+    "text": "Bruno Mars",
+    "img": "img/img-6.jpeg",
+    "audio": "audio/Grenade - Bruno Mars.mp3"
+  },
+  {
+    "title": "Fallin",
+    "text": "Harry Styles",
+    "img": "img/img-7.jpeg",
+    "audio": "audio/Falling - Harry Styles.mp3"
+  },
+  {
+    "title": "Mercy",
+    "text": "Shawn Mendes",
+    "img": "img/img-8.jpeg",
+    "audio": "audio/Mercy - Shawn Mendes.mp3"
+  },
+  {
+    "title": "Call Out My Name",
+    "text": "The Weekend",
+    "img": "img/img-9.jpeg",
+    "audio": "audio/Call Out My Name - The Weeknd.mp3"
+  },
+  {
+    "title": "Let Her Go",
+    "text": "Passenger",
+    "img": "img/img-10.jpeg",
+    "audio": "audio/Let Her Go - Passenger.mp3"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Do I Wanna Know",
+    "text": "Arctic Monkeys",
+    "img": "img/img-1.png",
+    "audio": "audio/Do-I-Wanna-Know-Arctic-Monkeys.wav"
+  },
+  {
+    "title": "Shake it Off",
+    "text": "Tylor Swift",
+    "img": "img/img-2.jpeg",
+    "audio": "audio/Shake It Off - Taylor Swift.mp3"
+  },
+  {
+    "title": "It's You",
+    "text": "Ali Gatie",
+    "img": "img/img-3.jpeg",
+    "audio": "audio/It s You - Ali Gatie.mp3"
+  },
+  {
+    "title": "Night Changes",
+    "text": "One Direction",
+    "img": "img/img-4.jpeg",
+    "audio": "audio/Night Changes - One Direction.mp3"
+  },
+  {
+    "title": "The one That got Away",
+    "text": "Katy Perry",
+    "img": "img/img-5.jpeg",
+    "audio": "audio/The One That Got Away - Katy Perry.mp3"
+  }
+]
